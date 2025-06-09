@@ -47,7 +47,7 @@ model.auto_process_file('test.xlsx')
 
 ## 输出内容
 
-- 详细Excel报告、CSV、JSON、分析图表，均在 output 目录下自动生成。
+- 详细Excel报告，允许导出
 
 ---
 如有疑问请联系开发者。 
